@@ -1,0 +1,108 @@
+body
+{
+  background: url('background-21.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.main
+{
+  background-color: #edfca0;
+  margin: auto;
+      width: 1000px ;
+      min-height: 100%;
+}
+
+.form-labels
+{
+  font-weight: bold;
+  font-family: verdana;
+  font-size:13px;
+}
+h2
+{
+  text-align: center;
+  margin: 0px;
+  margin-bottom: -20px;
+  margin-top: -10px;
+  padding: 20px;
+}
+.main3 table
+{
+  border-collapse: collapse;
+  border: 1px solid  #edfca0;
+}
+.main3
+{
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  background-color: #DAA618;
+  border-style: solid;
+  width:260px;
+  min-height: 100%;
+}
+.main2
+{
+  float: left;
+  border-style: solid;
+  width: 700px;
+  background-color:#DAA618;
+  margin-left: 10px;
+  margin-top: 10px;
+  min-height: 100%;
+}
+p
+{
+    margin: 0px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+}
+.main table
+{
+  border-style: solid;
+  padding: 15px;
+  border-color:  #edfca0;
+  margin: auto;
+}
+.header
+{
+  background-color: #18EF23 ;
+padding: 5px;
+padding-bottom: 0px;
+}
+body
+{
+  background-color: #eaa0fc;
+  margin: auto;
+}
+
+.logo
+{
+  vertical-align:20%;
+  margin: auto;
+      width: 1000px ;
+}
+.main2 table a
+{
+  color:#725506;
+  text-decoration: none;
+}
+.main2 table a:hover
+{
+  color:#E1F80C;
+  text-decoration: underline;;
+}
+.main3 table a
+{
+  text-decoration: none;
+  color:#725506;
+}
+.main3 table a:hover
+{
+  color:#E1F80C;
+  text-decoration: underline;
+}
